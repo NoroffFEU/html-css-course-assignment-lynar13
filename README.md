@@ -1,5 +1,5 @@
 
-# HTML & CSS Course Assignment
+# Cross-Course HTML & CSS Course Assignment
 
 ![image](https://github.com/lynar13/image-hosting/blob/main/square_eyes.png?raw=true)
 
