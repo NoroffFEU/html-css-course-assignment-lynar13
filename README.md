@@ -1,6 +1,8 @@
 
 # HTML & CSS Course Assignment
 
+![image](https://github.com/lynar13/image-hosting/blob/main/square_eyes.png?raw=true)
+
 ## Overview
 
 Square Eyes is a responsive website designed and developed as part of the HTML & CSS course assignment. The project showcases a functional, multi-page site built from scratch without the use of frameworks, emphasizing semantic HTML, DRY CSS principles, and accessibility standards.
